@@ -51,6 +51,8 @@ Project Structure:
     - Training Logistic and RandomForest model and then perform hypertuning.
     - Matrics Evaluation
     - Use ANN to predict, evalaute metrics as well
+- Prediction
+    - Loading different models to predict results across random data points
 
 ## 🚀 Getting Started
 
@@ -70,7 +72,7 @@ Follow these steps to set up and run the project on your local machine:
    Clone the repository using the following command:
 
    ```bash
-   git clone 
+   git clone https://github.com/devbikash24/titanic_survival_prediction.git
    cd titanic-survival-prediction
    
 2. **Create a Virtual Environment (Optional but Recommended)**
@@ -90,7 +92,8 @@ Follow these steps to set up and run the project on your local machine:
 4. Run different ipynb file for different purpose. 
 - For preprocessing, preprocessing&EDA.ipynb
 - For Feature Engineering, feature_eng.ipynb
-- For model building, evaluation and prediction,model_building_evaluate.ipynb
+- For model building,and evaluation,model_building_evaluate.ipynb
+- For Prediction, Predict1.ipynb
 
 
 
