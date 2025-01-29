@@ -1,0 +1,10 @@
+'treeleaf_vnev/'
+# Ignore Python virtual environments
+treeleaf_vnev/
+'treeleaf_vnev'
+# Ignore large system-generated files
+*.dll
+*.pyd
+
+# Ignore __pycache__ and compiled Python files
+__pycache__
